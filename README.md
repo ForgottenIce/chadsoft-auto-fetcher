@@ -5,6 +5,7 @@ The data about the runs are stored in a JSON file and automatically committed to
 
 ## Link to deployed GitHub pages
 https://forgottenice.github.io/chadsoft-auto-fetcher/
+A very basic site that shows a table of the latest 5 CT runs.
 
 ## How it works
 The workflow found in [.github/workflows/commit-latest-top-five.yaml](https://github.com/ForgottenIce/chadsoft-auto-fetcher/blob/main/.github/workflows/commit-latest-top-five.yaml) is scheduled to run every day at 12:00 PM UTC.
