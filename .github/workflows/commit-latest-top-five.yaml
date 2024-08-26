@@ -7,7 +7,8 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update_recent_runs:
+    name: Update recentRuns.json
     runs-on: ubuntu-latest
 
     steps:
