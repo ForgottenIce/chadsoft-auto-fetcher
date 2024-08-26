@@ -6,7 +6,10 @@ async function fetchChadsoft() {
     let response = await fetch(url);
     let data = await response.json();
 
-    let recentCtTopFive = data.recentRecords.filter((record) => record.defaultTrack === false && record["200cc"] === false);
+    let recentCtTopFive = {
+      recentRuns: data.recentRecords.filter((record) => record.defaultTrack === false && record["200cc"] === false),
+      lastUpdated: new Date().toLocaleString()
+    }
 
     
     fs.writeFile("recentRuns.json", JSON.stringify(recentCtTopFive, null, 4), (err) => {
