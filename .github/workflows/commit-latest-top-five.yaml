@@ -39,7 +39,8 @@ jobs:
       
     - name: Commit recentRuns.json to gh-pages
       run: |
-        git stash apply
+        git stash apply || true
+        git checkout --theirs recentRuns.json
         git add recentRuns.json
         git commit -m "Update recentRuns.json - $(date '+%Y-%m-%d %H:%M:%S')"
         git push origin HEAD:gh-pages
