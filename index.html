@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>ChadSoft recent CT records</title>
+</head>
+<body class="container">
+  <div>
+    <h1>Latest five CT records from the ChadSoft API</h1>
+    <table id="recordTable"></table>
+  </div>
+  <script>
+    async function createRecordTable() {
+      try {
+        const response = await fetch(window.location.origin + '/recentRuns.json')
+        const recentRunsJson = await response.json();
+        const table = document.createElement('table');
+        table.insertRow().innerHTML = '<th>Player</th><th>Track</th><th>Time</th><th>Date</th>';
+        recentRunsJson.recentRuns.forEach(run => {
+          const row = table.insertRow();
+          row.innerHTML = `<td>${run.player}</td><td>${run.trackName}</td><td>${run.finishTimeSimple}</td><td>${run.dateSet}</td>`;
+        });
+
+        table.insertRow().innerHTML = `<td colspan="4">Last updated: ${recentRunsJson.lastUpdated}</td>`;
+  
+        document.getElementById('recordTable').innerHTML = table.innerHTML;
+      } catch (error) {
+        document.getElementById('recordTable').innerHTML = '<tr><td>Failed to fetch data</td></tr>';
+      }
+    }
+    createRecordTable();
+  </script>
+</body>
+</html>
