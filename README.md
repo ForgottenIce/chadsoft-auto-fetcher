@@ -5,6 +5,7 @@ The data about the runs are stored in a JSON file and automatically committed to
 
 ## Link to deployed GitHub pages
 https://forgottenice.github.io/chadsoft-auto-fetcher/
+
 A very basic site that shows a table of the latest 5 CT runs.
 
 ## How it works
