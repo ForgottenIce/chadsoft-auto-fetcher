@@ -23,4 +23,3 @@ jobs:
       with:
         folder: website
         clean-exclude: recentRuns.json
-        silent: true
