@@ -3,7 +3,39 @@
         {
             "_links": {
                 "item": {
-                    "href": "/rkgd/6F/3B/3752DAA96ABA9B21F3B3F3BEA0568CA624A4.json"
+                    "href": "/rkgd/9A/7F/3810C7D3F891F3E9CFCC5B015576E00162B5.json"
+                },
+                "player": {
+                    "href": "/players/37/94AED8D510C2DF.json"
+                },
+                "leaderboard": {
+                    "href": "/leaderboard/18/E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60/00.json"
+                }
+            },
+            "href": "/rkgd/9A/7F/3810C7D3F891F3E9CFCC5B015576E00162B5.rkg",
+            "country": 110,
+            "region": 2,
+            "continent": 3,
+            "player": "Lυkε",
+            "trackId": "E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60",
+            "trackName": "SNES Mario Circuit 1",
+            "trackVersion": "v1.0",
+            "200cc": false,
+            "defaultTrack": false,
+            "finishTime": "01:29.590352037311",
+            "finishTimeSimple": "01:29.591",
+            "bestSplit": "00:17.436274202496",
+            "bestSplitSimple": "00:17.436",
+            "hash": "9A7F3810C7D3F891F3E9CFCC5B015576E00162B5",
+            "vehicleId": 23,
+            "driverId": 22,
+            "dateSet": "2024-08-29T19:52:40Z",
+            "isTie": false
+        },
+        {
+            "_links": {
+                "item": {
+                    "href": "/rkgd/7A/2B/AE1A3F84E48FEFB19F31B7C7E5BB2844BA80.json"
                 },
                 "player": {
                     "href": "/players/85/8060403046B78E.json"
@@ -12,57 +44,25 @@
                     "href": "/leaderboard/0B/E393FFA6E046290CAB2A80426D7F41B1859B2C02/01.json"
                 }
             },
-            "href": "/rkgd/6F/3B/3752DAA96ABA9B21F3B3F3BEA0568CA624A4.rkg",
+            "href": "/rkgd/7A/2B/AE1A3F84E48FEFB19F31B7C7E5BB2844BA80.rkg",
             "country": 34,
             "region": 2,
             "continent": 2,
-            "player": "Ω Eli",
+            "player": "SN Eli",
             "trackId": "E393FFA6E046290CAB2A80426D7F41B1859B2C02",
             "trackName": "Wiimmfi Wonder World",
             "trackVersion": "v1.0-CTGP",
             "200cc": false,
             "categoryId": 1,
             "defaultTrack": false,
-            "finishTime": "01:54.108096013188",
-            "finishTimeSimple": "01:54.109",
-            "bestSplit": "00:09.826604042500",
-            "bestSplitSimple": "00:09.827",
-            "hash": "6F3B3752DAA96ABA9B21F3B3F3BEA0568CA624A4",
+            "finishTime": "01:53.263970974321",
+            "finishTimeSimple": "01:53.264",
+            "bestSplit": "00:09.622504141957",
+            "bestSplitSimple": "00:09.623",
+            "hash": "7A2BAE1A3F84E48FEFB19F31B7C7E5BB2844BA80",
             "vehicleId": 23,
             "driverId": 22,
-            "dateSet": "2024-08-29T16:41:19Z",
-            "isTie": false
-        },
-        {
-            "_links": {
-                "item": {
-                    "href": "/rkgd/B6/1F/4F6540C3B9718E156E45F00B08652670C676.json"
-                },
-                "player": {
-                    "href": "/players/E4/6CDE283669FFA4.json"
-                },
-                "leaderboard": {
-                    "href": "/leaderboard/18/E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60/00.json"
-                }
-            },
-            "href": "/rkgd/B6/1F/4F6540C3B9718E156E45F00B08652670C676.rkg",
-            "country": 49,
-            "region": 7,
-            "continent": 2,
-            "player": "Kasey",
-            "trackId": "E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60",
-            "trackName": "SNES Mario Circuit 1",
-            "trackVersion": "v1.0",
-            "200cc": false,
-            "defaultTrack": false,
-            "finishTime": "01:29.645349208534",
-            "finishTimeSimple": "01:29.646",
-            "bestSplit": "00:17.411210009337",
-            "bestSplitSimple": "00:17.411",
-            "hash": "B61F4F6540C3B9718E156E45F00B08652670C676",
-            "vehicleId": 23,
-            "driverId": 22,
-            "dateSet": "2024-08-29T04:08:26Z",
+            "dateSet": "2024-08-29T19:45:18Z",
             "isTie": false
         },
         {
@@ -163,5 +163,5 @@
             "isTie": false
         }
     ],
-    "lastUpdated": "2024-08-29T19:01:14.905Z"
+    "lastUpdated": "2024-08-30T12:36:48.676Z"
 }
