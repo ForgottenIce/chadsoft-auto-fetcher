@@ -3,39 +3,104 @@
         {
             "_links": {
                 "item": {
-                    "href": "/rkgd/9A/7F/3810C7D3F891F3E9CFCC5B015576E00162B5.json"
+                    "href": "/rkgd/D9/06/CAA6E5741AD2199C3EDE5C889785AB5D12B3.json"
                 },
                 "player": {
-                    "href": "/players/37/94AED8D510C2DF.json"
+                    "href": "/players/D0/4D186FC8E58F13.json"
                 },
                 "leaderboard": {
-                    "href": "/leaderboard/18/E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60/00.json"
+                    "href": "/leaderboard/0A/6C00743261D8929A596C4BA757461745658208A2/00.json"
                 }
             },
-            "href": "/rkgd/9A/7F/3810C7D3F891F3E9CFCC5B015576E00162B5.rkg",
-            "country": 110,
-            "region": 2,
-            "continent": 3,
-            "player": "Lυkε",
-            "trackId": "E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60",
-            "trackName": "SNES Mario Circuit 1",
-            "trackVersion": "v1.0",
+            "href": "/rkgd/D9/06/CAA6E5741AD2199C3EDE5C889785AB5D12B3.rkg",
+            "country": 49,
+            "region": 29,
+            "continent": 2,
+            "player": "zzz ★ω★",
+            "trackId": "6C00743261D8929A596C4BA757461745658208A2",
+            "trackName": "Skyline Avenue",
+            "trackVersion": "v2.1",
             "200cc": false,
             "defaultTrack": false,
-            "finishTime": "01:29.590352037311",
-            "finishTimeSimple": "01:29.591",
-            "bestSplit": "00:17.436274202496",
-            "bestSplitSimple": "00:17.436",
-            "hash": "9A7F3810C7D3F891F3E9CFCC5B015576E00162B5",
+            "finishTime": "02:24.756868825972",
+            "finishTimeSimple": "02:24.757",
+            "bestSplit": "00:47.946878144857",
+            "bestSplitSimple": "00:47.947",
+            "hash": "D906CAA6E5741AD2199C3EDE5C889785AB5D12B3",
             "vehicleId": 23,
             "driverId": 22,
-            "dateSet": "2024-08-29T19:52:40Z",
+            "dateSet": "2024-08-31T07:02:03Z",
             "isTie": false
         },
         {
             "_links": {
                 "item": {
-                    "href": "/rkgd/7A/2B/AE1A3F84E48FEFB19F31B7C7E5BB2844BA80.json"
+                    "href": "/rkgd/B7/9E/F7887A9DDC6A9E5AB206C93999B02D4E7201.json"
+                },
+                "player": {
+                    "href": "/players/D0/4D186FC8E58F13.json"
+                },
+                "leaderboard": {
+                    "href": "/leaderboard/17/58AABF96417775A3AC94E056EA0B5CA0F912DA77/02.json"
+                }
+            },
+            "href": "/rkgd/B7/9E/F7887A9DDC6A9E5AB206C93999B02D4E7201.rkg",
+            "country": 49,
+            "region": 29,
+            "continent": 2,
+            "player": "zzz ★ω★",
+            "trackId": "58AABF96417775A3AC94E056EA0B5CA0F912DA77",
+            "trackName": "Festival Town",
+            "trackVersion": "v2.2",
+            "200cc": false,
+            "categoryId": 2,
+            "defaultTrack": false,
+            "finishTime": "02:03.763093209922",
+            "finishTimeSimple": "02:03.764",
+            "bestSplit": "00:41.106820658267",
+            "bestSplitSimple": "00:41.107",
+            "hash": "B79EF7887A9DDC6A9E5AB206C93999B02D4E7201",
+            "vehicleId": 23,
+            "driverId": 22,
+            "dateSet": "2024-08-31T07:01:56Z",
+            "isTie": false
+        },
+        {
+            "_links": {
+                "item": {
+                    "href": "/rkgd/DA/CE/389DCB057FDD862C705821CBF1A9FC693ED5.json"
+                },
+                "player": {
+                    "href": "/players/E4/6CDE283669FFA4.json"
+                },
+                "leaderboard": {
+                    "href": "/leaderboard/18/E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60/00.json"
+                }
+            },
+            "href": "/rkgd/DA/CE/389DCB057FDD862C705821CBF1A9FC693ED5.rkg",
+            "country": 49,
+            "region": 7,
+            "continent": 2,
+            "player": "Kasey",
+            "trackId": "E39DD5B4FBBF9793C291ECFAE5443C804B1DFC60",
+            "trackName": "SNES Mario Circuit 1",
+            "trackVersion": "v1.0",
+            "200cc": false,
+            "defaultTrack": false,
+            "finishTime": "01:29.556676712155",
+            "finishTimeSimple": "01:29.557",
+            "bestSplit": "00:17.417775804937",
+            "bestSplitSimple": "00:17.418",
+            "hash": "DACE389DCB057FDD862C705821CBF1A9FC693ED5",
+            "vehicleId": 23,
+            "driverId": 22,
+            "dateSet": "2024-08-31T01:01:15Z",
+            "isTie": false
+        },
+        {
+            "_links": {
+                "item": {
+                    "href": "/rkgd/C3/5B/953611466A52C3697196D44366FD649E833A.json"
                 },
                 "player": {
                     "href": "/players/85/8060403046B78E.json"
@@ -44,7 +109,7 @@
                     "href": "/leaderboard/0B/E393FFA6E046290CAB2A80426D7F41B1859B2C02/01.json"
                 }
             },
-            "href": "/rkgd/7A/2B/AE1A3F84E48FEFB19F31B7C7E5BB2844BA80.rkg",
+            "href": "/rkgd/C3/5B/953611466A52C3697196D44366FD649E833A.rkg",
             "country": 34,
             "region": 2,
             "continent": 2,
@@ -55,14 +120,14 @@
             "200cc": false,
             "categoryId": 1,
             "defaultTrack": false,
-            "finishTime": "01:53.263970974321",
-            "finishTimeSimple": "01:53.264",
-            "bestSplit": "00:09.622504141957",
-            "bestSplitSimple": "00:09.623",
-            "hash": "7A2BAE1A3F84E48FEFB19F31B7C7E5BB2844BA80",
-            "vehicleId": 23,
-            "driverId": 22,
-            "dateSet": "2024-08-29T19:45:18Z",
+            "finishTime": "00:26.969905206293",
+            "finishTimeSimple": "00:26.970",
+            "bestSplit": "00:03.108154770225",
+            "bestSplitSimple": "00:03.108",
+            "hash": "C35B953611466A52C3697196D44366FD649E833A",
+            "vehicleId": 27,
+            "driverId": 8,
+            "dateSet": "2024-08-30T22:36:57Z",
             "isTie": false
         },
         {
@@ -96,72 +161,7 @@
             "driverId": 22,
             "dateSet": "2024-08-28T17:53:42Z",
             "isTie": false
-        },
-        {
-            "_links": {
-                "item": {
-                    "href": "/rkgd/D5/B7/5224AE88C254D5BAFC16ADC2A00519C774E2.json"
-                },
-                "player": {
-                    "href": "/players/85/8060403046B78E.json"
-                },
-                "leaderboard": {
-                    "href": "/leaderboard/0F/DD5F14777EE0B78C0BD5F6FDA04EA71104F84BF7/00.json"
-                }
-            },
-            "href": "/rkgd/D5/B7/5224AE88C254D5BAFC16ADC2A00519C774E2.rkg",
-            "country": 34,
-            "region": 2,
-            "continent": 2,
-            "player": "Tω Eli",
-            "trackId": "DD5F14777EE0B78C0BD5F6FDA04EA71104F84BF7",
-            "trackName": "Fort Francis",
-            "trackVersion": "v3.1",
-            "200cc": false,
-            "defaultTrack": false,
-            "finishTime": "02:08.481254256129",
-            "finishTimeSimple": "02:08.482",
-            "bestSplit": "00:41.443630978495",
-            "bestSplitSimple": "00:41.444",
-            "hash": "D5B75224AE88C254D5BAFC16ADC2A00519C774E2",
-            "vehicleId": 23,
-            "driverId": 22,
-            "dateSet": "2024-08-27T02:57:34Z",
-            "isTie": false
-        },
-        {
-            "_links": {
-                "item": {
-                    "href": "/rkgd/97/E3/4C6CE762D2434BEAA395B8F6F69FA4CF0254.json"
-                },
-                "player": {
-                    "href": "/players/85/8060403046B78E.json"
-                },
-                "leaderboard": {
-                    "href": "/leaderboard/1B/F03D226B68E03581593BE58A40FDCEBDC55CDA6F/01.json"
-                }
-            },
-            "href": "/rkgd/97/E3/4C6CE762D2434BEAA395B8F6F69FA4CF0254.rkg",
-            "country": 34,
-            "region": 2,
-            "continent": 2,
-            "player": "Tω Eli",
-            "trackId": "F03D226B68E03581593BE58A40FDCEBDC55CDA6F",
-            "trackName": "Ice Cream Fortress",
-            "trackVersion": "v1.2-hotfix",
-            "200cc": false,
-            "categoryId": 1,
-            "defaultTrack": false,
-            "finishTime": "01:39.945967321724",
-            "finishTimeSimple": "01:39.946",
-            "bestSplit": "00:12.742000000000",
-            "bestSplitSimple": "00:12.742",
-            "hash": "97E34C6CE762D2434BEAA395B8F6F69FA4CF0254",
-            "vehicleId": 22,
-            "driverId": 15,
-            "dateSet": "2024-08-26T22:33:43Z",
-            "isTie": false
         }
     ],
-    "lastUpdated": "2024-08-30T12:36:48.676Z"
+    "lastUpdated": "2024-08-31T12:34:43.806Z"
 }
