@@ -13,7 +13,7 @@
   <script>
     async function createRecordTable() {
       try {
-        const response = await fetch(window.location.href + '/recentRuns.json')
+        const response = await fetch("./recentRuns.json");
         const recentRunsJson = await response.json();
         const table = document.createElement('table');
         table.insertRow().innerHTML = '<th>Player</th><th>Track</th><th>Time</th><th>Date</th>';
