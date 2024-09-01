@@ -3,6 +3,39 @@
         {
             "_links": {
                 "item": {
+                    "href": "/rkgd/87/00/4CE2A37F7DC9AACF9779B23FAD2FA05B4951.json"
+                },
+                "player": {
+                    "href": "/players/85/8060403046B78E.json"
+                },
+                "leaderboard": {
+                    "href": "/leaderboard/0B/E393FFA6E046290CAB2A80426D7F41B1859B2C02/01.json"
+                }
+            },
+            "href": "/rkgd/87/00/4CE2A37F7DC9AACF9779B23FAD2FA05B4951.rkg",
+            "country": 34,
+            "region": 2,
+            "continent": 2,
+            "player": "SN Eli",
+            "trackId": "E393FFA6E046290CAB2A80426D7F41B1859B2C02",
+            "trackName": "Wiimmfi Wonder World",
+            "trackVersion": "v1.0-CTGP",
+            "200cc": false,
+            "categoryId": 1,
+            "defaultTrack": false,
+            "finishTime": "00:25.088014908075",
+            "finishTimeSimple": "00:25.089",
+            "bestSplit": "00:03.248034510460",
+            "bestSplitSimple": "00:03.249",
+            "hash": "87004CE2A37F7DC9AACF9779B23FAD2FA05B4951",
+            "vehicleId": 27,
+            "driverId": 8,
+            "dateSet": "2024-09-01T03:13:50Z",
+            "isTie": false
+        },
+        {
+            "_links": {
+                "item": {
                     "href": "/rkgd/D9/06/CAA6E5741AD2199C3EDE5C889785AB5D12B3.json"
                 },
                 "player": {
@@ -100,39 +133,6 @@
         {
             "_links": {
                 "item": {
-                    "href": "/rkgd/C3/5B/953611466A52C3697196D44366FD649E833A.json"
-                },
-                "player": {
-                    "href": "/players/85/8060403046B78E.json"
-                },
-                "leaderboard": {
-                    "href": "/leaderboard/0B/E393FFA6E046290CAB2A80426D7F41B1859B2C02/01.json"
-                }
-            },
-            "href": "/rkgd/C3/5B/953611466A52C3697196D44366FD649E833A.rkg",
-            "country": 34,
-            "region": 2,
-            "continent": 2,
-            "player": "SN Eli",
-            "trackId": "E393FFA6E046290CAB2A80426D7F41B1859B2C02",
-            "trackName": "Wiimmfi Wonder World",
-            "trackVersion": "v1.0-CTGP",
-            "200cc": false,
-            "categoryId": 1,
-            "defaultTrack": false,
-            "finishTime": "00:26.969905206293",
-            "finishTimeSimple": "00:26.970",
-            "bestSplit": "00:03.108154770225",
-            "bestSplitSimple": "00:03.108",
-            "hash": "C35B953611466A52C3697196D44366FD649E833A",
-            "vehicleId": 27,
-            "driverId": 8,
-            "dateSet": "2024-08-30T22:36:57Z",
-            "isTie": false
-        },
-        {
-            "_links": {
-                "item": {
                     "href": "/rkgd/97/32/BE1DDBB7903F0F76ACCA75122D95A7719E12.json"
                 },
                 "player": {
@@ -163,5 +163,5 @@
             "isTie": false
         }
     ],
-    "lastUpdated": "2024-08-31T12:34:43.806Z"
+    "lastUpdated": "2024-09-01T12:34:59.528Z"
 }
